@@ -2,14 +2,20 @@
 
 This project aims to analyze the performance of companies listed on the Borsa Istanbul 100 (BIST 100) stock index for the year 2023. The analysis focuses on the top 10 performing companies based on their percentage change in stock price.
 
+
 Project Structure
+
 main.py: Python script to download historical stock data, calculate percentage changes, and generate graphs.
+
 requirements.txt: List of Python packages required for the project.
+
 README.md: Project documentation explaining the analysis process and results.
+
 
 
 Prerequisites
 Ensure you have Python installed on your system. You can install the required packages using the following command:
+
 
 
 pip install -r requirements.txt
@@ -18,6 +24,7 @@ python main.py
 
 
 This script will fetch historical stock data for the BIST 100 companies, calculate the percentage change in stock prices, and generate separate graphs for each quarter of 2023 and for the entire year.
+
 
 View the Results:
 
